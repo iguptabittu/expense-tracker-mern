@@ -72,10 +72,10 @@ expense-tracker-mern/
 ```bash
 cd backend
 npm install
-npm run dev
+npm run start
 ```
 
-Runs backend server at: `http://localhost:30001`
+Runs backend server at: `http://localhost:3001`
 
 ---
 
@@ -84,7 +84,7 @@ Runs backend server at: `http://localhost:30001`
 ```bash
 cd frontend
 npm install
-npm run dev
+npm run start
 ```
 
 Runs frontend app at: `http://localhost:5173`
